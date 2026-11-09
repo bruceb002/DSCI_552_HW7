@@ -1,0 +1,9 @@
+# Jupyter Notebook Checkpoints (matches anywhere in the repo)
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# macOS System Files
+.DS_Store
+
+# Temporary Grader Test Environments
+grader_test_env/
